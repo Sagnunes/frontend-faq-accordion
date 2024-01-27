@@ -43,7 +43,7 @@ export default {
         </h1>
       </div>
       <Accordion v-for="item in data" :id="item.id" :key="item.id"
-                 :answer="item.answer" :question="item.question"/>
+                 :answer="item.answer" :question="item.question" />
     </section>
   </main>
 </template>
