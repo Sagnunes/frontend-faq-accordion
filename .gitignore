@@ -25,7 +25,7 @@ figma
 .DS_Store
 .prettierignore
 node_modules
-dist
+
 dist-ssr
 *.local
 
